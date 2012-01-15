@@ -1,0 +1,4 @@
+Creates a binary tree from a list of integers using python lists as the base data structure.
+
+Example usage: python makeBST.py 100 56 266 4 55
+result: ['100', ['56', ['4', [], ['55']], []], ['266']]
